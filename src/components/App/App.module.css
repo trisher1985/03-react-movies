@@ -1,3 +1,9 @@
 .app {
     padding: 0 16px;
 }
+
+.appContainer {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
